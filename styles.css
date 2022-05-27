@@ -369,6 +369,10 @@ footer h3 {
     font-weight: 200;
 }
 
+#heart {
+    color: white;
+}
+
 @media (max-width: 800px) {
     footer {
         text-align: center;
